@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtWebApiTutorial", "JwtWebApiTutorial\JwtWebApiTutorial.csproj", "{FE339DFF-10FE-42EB-91BA-1A4CD91576AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE339DFF-10FE-42EB-91BA-1A4CD91576AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE339DFF-10FE-42EB-91BA-1A4CD91576AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE339DFF-10FE-42EB-91BA-1A4CD91576AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE339DFF-10FE-42EB-91BA-1A4CD91576AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C8B06A-91F9-4124-A957-D9D8DA4F0B68}
+	EndGlobalSection
+EndGlobal
